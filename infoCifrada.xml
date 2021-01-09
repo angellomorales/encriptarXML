@@ -1,0 +1,4 @@
+<persona id="468300000"><nombre>Marvis</nombre><apellidos>Rondon Marcelo</apellidos><email>marvis@servidor.com</email><xenc:EncryptedData xmlns:xenc="http://www.w3.org/2001/04/xmlenc#" Type="http://www.w3.org/2001/04/xmlenc#Element"><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#aes128-cbc"/><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<xenc:EncryptedKey xmlns:xenc="http://www.w3.org/2001/04/xmlenc#"><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#kw-tripledes"/><xenc:CipherData><xenc:CipherValue>KPvbz4/elMUtED6o2M5syTsaxVIZ2Fql2PbUTx9jAKo=</xenc:CipherValue></xenc:CipherData></xenc:EncryptedKey></ds:KeyInfo><xenc:CipherData><xenc:CipherValue>8zGNuUSqK6FqTCGm+5wOlcfjylGICNU/aPfc+WfES28mWZhsu76CBATO4dokieDzJMu1SKTS17eg
+JAWqRO7uJXRxzMH6iExg3f48tSQFRhAr3Zf0kXvzPsrxzrqOuSldtlD86jy9Aiicqj3yYDPxZWQC
+Ah9tfObF9H1QdcXuP6c=</xenc:CipherValue></xenc:CipherData></xenc:EncryptedData></persona>
